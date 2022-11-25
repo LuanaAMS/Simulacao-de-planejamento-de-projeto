@@ -35,6 +35,12 @@ Como cliente, gostaria de ter um sistema PDV que tenha conexão com o banco de d
 - Prazo muito curto
 - Baixo desempenho devido a copa 2022
 
+#### > Riscos do projeto
+
+- A equipe não irá trabalhar nos horários que tiver tendo jogo do Brasil na copa 2022
+- O sistema deverá ser entregue até dia 31/12/2022
+- O sistema deverá, de inicio, ter as mesmas configurações de produtos que a loja original (online)
+
 #### > Requisitos principais 
 
 | Requisitos Funcionais | Requisitos não funcionais |
@@ -42,12 +48,6 @@ Como cliente, gostaria de ter um sistema PDV que tenha conexão com o banco de d
 | RF001 - O sistema deve permitir criar, alterar e excluir um produto do cadastro no banco de dados. | RNF001 - O sistema deve gerar um relatório de vendas e lucro no final de cada dia, semana, e mês. | 
 | RF002 - O sistema deve permitir o funcionário responsável pelo PDV de logar e se cadastrar antes de iniciar a venda. | RNF002 - O sistema deve ser simples e intuitivo para facilitar o treinamento dos funcionários. |
 | RF003 - O sistema deve ser capaz de gerar uma nota fiscal ou "notinha" ao final de cada compra. | RNF003 - O sistema deve enviar automaticamente a nota fiscal para o contador responsável. |
-
-#### > Riscos do projeto
-
-- A equipe não irá trabalhar nos horários que tiver tendo jogo do Brasil na copa 2022
-- O sistema deverá ser entregue até dia 31/12/2022
-- O sistema deverá, de inicio, ter as mesmas configurações de produtos que a loja original (online)
 
 #### > Entregas estimadas 
 
