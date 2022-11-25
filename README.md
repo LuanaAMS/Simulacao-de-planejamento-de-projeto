@@ -37,7 +37,7 @@ Como cliente, gostaria de ter um sistema PDV que tenha conexão com o banco de d
 
 #### > Riscos do projeto
 
-- A equipe não irá trabalhar nos horários que tiver tendo jogo do Brasil na copa 2022
+- A equipe não irá trabalhar nos horários que estiver acontecendo jogo do Brasil na copa 2022
 - O sistema deverá ser entregue até dia 31/12/2022
 - O sistema deverá, de inicio, ter as mesmas configurações de produtos que a loja original (online)
 
@@ -58,18 +58,18 @@ Como cliente, gostaria de ter um sistema PDV que tenha conexão com o banco de d
 #### > Etapas do projeto - Planejamento inicial
 
 - 01. [UX/UI] Desenvolvimento de layout do carrinho de compras, cadastro de clientes, tela de seleção e ajuste de produtos no PDV [11/11 a 18/11]
-> Entrega das telas no Figma
+>> Entrega das telas no Figma
 - 02. [Analista] Análise do banco de dados original (Loja online) e de como será a ligação com a loja física [11/11 a 10/12]
-> Entrega de relatório de banco e modelo de fluxo
+>> Entrega de relatório de banco e modelo de fluxo
 - 03. [Dev. Back] Desenvolvimento das telas criadas [21/11 a 09/12]
-> Entrega do back das telas
+>> Entrega do back das telas
 - 04. [Dev. Front] Desenvolvimento das telas criadas [21/11 a 09/12]
-> Entrega do front das telas
+>> Entrega do front das telas
 - 05. [Dev. Back] Vinculo com o banco de dados original [09/12 a 16/12]
-> Entrega no Fluxo de banco implementado
+>> Entrega no Fluxo de banco implementado
 - 06. [Tester] Verificação de funcionamento completo [16/12 a 23/12]
-> Entrega de relatório de testes
+>> Entrega de relatório de testes
 - 07. [Equipe] Ajustes necessários pontuados pelo tester [ 23/12 a 28/12/2022]
-> Entrega do projeto final
+>> Entrega do projeto final
 
 _Entregas planejadas com 2 dias de sobra para ressalva de atraso_
