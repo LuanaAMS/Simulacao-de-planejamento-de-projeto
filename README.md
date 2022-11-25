@@ -9,4 +9,4 @@ Nesse repositório estão armazenadas partes de uma simulação de planejamento 
 | Prazo | De 11/11 até 31/11 |
 | Equipe nescessária | Analista, UX/UI, Desenvolvedor Back, Desenvolvedor Front e Tester |
 
-<a href="https://github.com/lulunaw/Simulacao-de-planejamento-de-projeto/blob/5325b15cb1131e41036afeeb01b89deaa2d5fc5c/simulacaoDeEntrega.md">
+<a href="https://github.com/lulunaw/Simulacao-de-planejamento-de-projeto/blob/5325b15cb1131e41036afeeb01b89deaa2d5fc5c/simulacaoDeEntrega.md"/>
