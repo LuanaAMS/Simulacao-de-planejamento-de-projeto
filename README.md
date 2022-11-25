@@ -1,5 +1,5 @@
 # Simulação de planejamento de projeto
-Nesse repositório estão armazenadas partes de uma simulação de planejamento de um projeto de programação. O projeto consiste em criar um PDV com banco integrado ao Ecommerce. 
+Nesse repositório estão armazenadas partes de uma simulação de planejamento de um projeto de programação. O projeto consiste em criar um PDV com banco integrado ao Ecommerce já existente. 
 
 #### > Simulação de escopo - solicitação de projeto simples
  
