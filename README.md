@@ -73,3 +73,8 @@ Como cliente, gostaria de ter um sistema PDV que tenha conexão com o banco de d
 >> Entrega do projeto final
 
 _Entregas planejadas com 2 dias de sobra para ressalva de atraso_
+
+#### > Diagrama de PERT
+
+![PERT Diagram](https://user-images.githubusercontent.com/74381091/203989098-49adeef3-c3fb-47c4-a6cb-c548b3197f2a.png)
+
