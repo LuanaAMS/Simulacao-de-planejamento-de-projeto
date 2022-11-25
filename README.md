@@ -1,7 +1,7 @@
-# Simulacao-de-planejamento-de-projeto
+# Simulação de planejamento de projeto
 Nesse repositório estão armazenadas partes de uma simulação de planejamento de um projeto de programação. O projeto consiste em criar um PDV com banco integrado ao Ecommerce. 
 
-#### Simulação de escopo - solicitação de projeto simples
+#### > Simulação de escopo - solicitação de projeto simples
  
 | Partes do escopo | Descrição |
 | :------ | ----------- |
